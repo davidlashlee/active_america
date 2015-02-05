@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  zip_code: 1
+  address: MyText
+  sub_price: 1.5
+  frequency_of_payment: 1
+
+two:
+  name: MyString
+  zip_code: 1
+  address: MyText
+  sub_price: 1.5
+  frequency_of_payment: 1
