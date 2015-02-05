@@ -14,5 +14,7 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require bootstrap
+//= require agency
+//= require cbpAnimatedHeader
 
 //= require_tree .

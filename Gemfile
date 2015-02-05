@@ -45,6 +45,7 @@ gem 'omniauth'
 gem 'omniauth-facebook'
 gem 'bootstrap-sass', github: 'twbs/bootstrap-sass'
 gem 'bootstrap-sass-extras'
+gem 'font-awesome-rails'
 gem 'tzinfo-data'
 gem 'validates_formatting_of'
 
